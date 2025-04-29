@@ -34,3 +34,7 @@
 # FDF - Wireframe Model <img width="116" alt="Screenshot from 2025-04-14 11-47-41" src="https://github.com/user-attachments/assets/50d654ab-2855-4d6b-bffe-97aa36838be6">
 <br>
 <br>
+
+# Push_Swap <img width="129" alt="283972122-af63455d-c404-4bea-bfe5-cdfd21dcbafe" src="https://github.com/user-attachments/assets/23a8fd89-9ff8-4835-a8e8-ac4b34815213" />
+<br>
+<br>
